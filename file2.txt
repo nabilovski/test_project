@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 from rocky machine
+=======
+this is file2 in feature branch
+>>>>>>> 7698269c3fd22e54d7e079f2766cb47c8bc1afe3
